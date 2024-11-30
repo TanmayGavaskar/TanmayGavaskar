@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Tanmay Gavaskar</h1>
-<h3 align="center">Passionate tech junkie</h3>
+<h1 align="center">Hello, I'm Tanmay Gavaskar</h1>
+<h3 align="center">A sincere tech junkie</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
